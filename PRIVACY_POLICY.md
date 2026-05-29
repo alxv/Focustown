@@ -73,5 +73,4 @@ Although Focustown does not process personal data on external servers, we fully 
 ## 8. 📧 Contact Information
 If you have any questions or feedback regarding this Privacy Policy or Focustown's local data storage, please feel free to reach out:
 
-* **Support Email**: [your-email@example.com](mailto:your-email@example.com) *(Update with your active support email)*
-* **GitHub Repository**: [https://github.com/your-username/focus_town](https://github.com/your-username/focus_town) *(Update with your repository URL)*
+* **GitHub Repository**: [https://github.com/your-username/focus_town](https://github.com/your-username/focus_town) 
