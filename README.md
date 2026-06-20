@@ -2,7 +2,6 @@
 
 [Download here](https://apps.apple.com/us/app/focustown-deep-work-timer/id6772716882)
 
-
 > **Where productivity builds communities. Turn your distraction-free deep-work sessions into a thriving cozy skyline.**
 
 Focustown is a beautifully crafted, gamified Pomodoro timer built with Flutter. It takes the proven science of time-boxing and wraps it in a cozy town-building simulation. Every minute you spend focused is a minute spent gathering materials and earning resources to customize, construct, and grow your own virtual town.
